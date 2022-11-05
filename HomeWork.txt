@@ -1,1 +1,5 @@
+Google Sheet Bisection : https://docs.google.com/spreadsheets/d/1PAGCi1nW4E859MSmywcZxYLLWaUAZ0OnueNqNnD0EFc/edit?usp=sharing
 
+Colab Python code : https://colab.research.google.com/drive/17tRqK3eACP0Aqapb1tp7oF1ew39c2hnw?usp=sharing
+
+Github Python code : https://github.com/zhilwan78/Numberical_HM/blob/main/Bisection.ipynb
